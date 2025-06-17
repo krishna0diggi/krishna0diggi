@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishna0diggi
 - 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me https://www.linkedin.com/in/krishna-kumar-saw-9082b9196/
 - ⚡ Fun fact: Sarcastic
 
